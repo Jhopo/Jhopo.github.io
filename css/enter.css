@@ -4,6 +4,12 @@ body {
   background-color: #eee;
 }
 
+.btn-primary {
+    color: #fff;
+    background-color: #0097ad;
+    border-color: #0b435b;
+}
+
 .form-signin {
   max-width: 330px;
   padding: 15px;
